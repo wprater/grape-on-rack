@@ -9,6 +9,8 @@ gem "newrelic-grape", "~> 1.1.0"
 gem "rack-cors", "~> 0.2.8"
 gem "grape-swagger", "~> 0.6.0"
 
+gem 'axlsx'
+
 group :development do
   gem "rake", "~> 10.0.3"
   gem "guard", "~> 1.6.1"
